@@ -1,0 +1,19 @@
+Call of Duty es una serie de videojuegos de disparos en primera persona, de estilo bélico, creada por Ben Chichoski, desarrollada principal e inicialmente por Infinity Ward, Treyach, Sledgehammer Games y en menor proporción Raven Software y distribuida por Activision. La franquicia comenzó para computadora personal y posteriormente fue expandiéndose hacia videoconsolas de sexta y séptima generación, tanto de sobremesa como portátiles, llegando así, a lanzar varios juegos derivados de forma paulatina con la serie principal. La serie inicialmente se ambientaba en la Segunda Guerra Mundial, relatando personajes y combates acaecidos durante dicho conflicto bélico. Esto fue cambiando hasta la actualidad, donde los argumentos suceden en ambientes contemporáneos y ficticios, como se puede ver en Call of Duty: Black Ops, en la Guerra Fría, como se ve en Call of Duty 4: Modern Warfare, Call of Duty: Modern Warfare 2, y Call of Duty: Modern Warfare 3 en la Tercera Guerra Mundial, y en los futuros tecnológicos en Call of Duty: Black Ops 2, Call of Duty: Advanced Warfare, Call of Duty: Black Ops 3 y Call of Duty: Infinite Warfare. Desde Call of Duty 4: Modern Warfare hasta Call of Duty: Advanced Warfare los DLCs de las distintas entregas se lanzaban con unos meses de adelanto en las plataformas Xbox 360 y Xbox One, hasta Black Ops 3 donde comenzaron a lanzarse primero en PlayStation 4.
+La saga ha gozado de un gran éxito comercial y crítico el cual ha ido aumentando desde su creación hasta la actualidad. Call of Duty ha logrado grandes ganancias en la industria de los videojuegos, vendiendo 55 millones de copias totales de sus juegos, recaudando más de 3 mil millones de dólares, creando además otros productos de la franquicia, incluyendo figuras de acción, juego de naipes y una miniserie de comic books. De igual forma, la serie ha sido objeto de críticas y controversias desde su creación, hasta la actualidad.
+Para febrero de 2016, la serie de Call of Duty ya había vendido 250 millones de copias y alcanzaron los 15 mil millones de dólares estadounidenses en ventas totales, incluyendo contenido in-game.
+Existen 3 tipos de direcciones IP privadas
+Clase A: de 10.0.0.0 a 10.255.255.255. "Utilizadas por grandes redes privadas, como podría ser una multinacional"
+Clase B: de 172.16.0.0 a 172.31.255.255. "Utilizadas por redes medianas, como podría ser una PYME o un centro de estudios"
+Clase C: 192.168.0.0 a 192.168.255.255. "Utilizadas por redes medianas, como podría ser hogar"
+Correos jesusdelvalle2000@hotmail.com sesg3001@gmail.com regnier3019@outlook.com
+El url de la pagina del Instituto Tecnologico Superior De Valladolid es https://valladolid.tecnm.mx y el de la plataforma es https://moodle.valladolid.tecnm.mx/.
+El codigo postal de Mérida es:
+97147
+Numeros de telefonos son 9993929134 9853210003 9993385055
+Equipo "ALFA BUENA MARAVILLA ONDA DINAMITA ESCUADRÓN LOBO"
+HORAS
+Panamá	 13:22 pm
+Lima	 11:22 am
+Lisboa	 13:22 pm
+San Juan 07:22 am	
+
